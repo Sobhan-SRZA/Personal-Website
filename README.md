@@ -1,4 +1,26 @@
 ## 📡 Simple Personal Website
+<div align="center">
+    <img src="https://img.shields.io/badge/HTML-gray.svg?style=plastic&logo=html5&logoColor=orange">
+    <img src="https://img.shields.io/badge/CSS-gray.svg?style=plastic&logo=css3&logoColor=blue">
+    <img src="https://img.shields.io/badge/Javascript-gray.svg?style=plastic&logo=javascript&logoColor=yellow">
+    <img src="https://img.shields.io/github/v/release/Sobhan-SRZA/Personal-Website?label=Version">
+    <div>
+        <img src="https://img.shields.io/github/license/Sobhan-SRZA/Personal-Website?label=License">
+        <img src="https://img.shields.io/github/last-commit/Sobhan-SRZA/Personal-Website?label=Last Commit">
+        <img src="https://img.shields.io/github/release-date/Sobhan-SRZA/Personal-Website?label=Last Release">
+        <img src="https://img.shields.io/github/downloads/Sobhan-SRZA/Personal-Website/total?label=Downloads">
+    </div>
+    <img src="https://img.shields.io/github/forks/Sobhan-SRZA/Personal-Website?label=Forks">
+    <img src="https://img.shields.io/github/stars/Sobhan-SRZA/Personal-Website?label=Stars">
+    <img src="https://img.shields.io/github/watchers/Sobhan-SRZA/Personal-Website?label=Watchers">
+    <img src="https://img.shields.io/github/languages/code-size/Sobhan-SRZA/Personal-Website?label=Code Size">
+    <img src="https://img.shields.io/github/directory-file-count/Sobhan-SRZA/Personal-Website?label=Files">
+    <div>
+        <img style="display:block;margin-left:auto;margin-right:auto;width:30%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Personal-Website&theme=react">
+    </div>
+</div>
+
+---
 
 Hello friends 👋🏻
 In this project, I prepared a template for you to build a very simple website to introduce yourself.
