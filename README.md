@@ -1,26 +1,30 @@
-## 📡 Simple Personal Website
 <div align="center">
-    <img src="https://img.shields.io/badge/HTML-gray.svg?style=plastic&logo=html5&logoColor=orange">
-    <img src="https://img.shields.io/badge/CSS-gray.svg?style=plastic&logo=css3&logoColor=blue">
-    <img src="https://img.shields.io/badge/Javascript-gray.svg?style=plastic&logo=javascript&logoColor=yellow">
-    <img src="https://img.shields.io/github/v/release/Sobhan-SRZA/Personal-Website?label=Version">
+    <h1>Simple Personal Website</h1>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <div>
         <img src="https://img.shields.io/github/license/Sobhan-SRZA/Personal-Website?label=License">
         <img src="https://img.shields.io/github/last-commit/Sobhan-SRZA/Personal-Website?label=Last Commit">
         <img src="https://img.shields.io/github/release-date/Sobhan-SRZA/Personal-Website?label=Last Release">
         <img src="https://img.shields.io/github/downloads/Sobhan-SRZA/Personal-Website/total?label=Downloads">
     </div>
-    <img src="https://img.shields.io/github/forks/Sobhan-SRZA/Personal-Website?label=Forks">
-    <img src="https://img.shields.io/github/stars/Sobhan-SRZA/Personal-Website?label=Stars">
-    <img src="https://img.shields.io/github/watchers/Sobhan-SRZA/Personal-Website?label=Watchers">
     <img src="https://img.shields.io/github/languages/code-size/Sobhan-SRZA/Personal-Website?label=Code Size">
     <img src="https://img.shields.io/github/directory-file-count/Sobhan-SRZA/Personal-Website?label=Files">
+    <img src="https://img.shields.io/github/v/release/Sobhan-SRZA/Personal-Website?label=Version">
+    <div>
+        <img src="https://img.shields.io/github/forks/Sobhan-SRZA/Personal-Website?label=Forks">
+        <img src="https://img.shields.io/github/stars/Sobhan-SRZA/Personal-Website?label=Stars">
+        <img src="https://img.shields.io/github/watchers/Sobhan-SRZA/Personal-Website?label=Watchers">
+    </div>
     <div>
         <img style="display:block;margin-left:auto;margin-right:auto;width:30%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Personal-Website&theme=react">
     </div>
 </div>
 
 ---
+
+## Overview
 
 Hello friends 👋🏻
 In this project, I prepared a template for you to build a very simple website to introduce yourself.
@@ -31,14 +35,16 @@ If you like the project, please start it. ⭐
 
 have a nice day ❤️‍🔥
 
-- An example of a website page image👇🏻
+---
+
+## Screen Shots
 <a href="https://sobhan.epizy.com">
     <img align="center" src ="https://cdn.discordapp.com/attachments/940357295051784252/1076560875441365033/Sobhan-SRZA_-_Google_Chrome_29_11_1401_09_13_27_..png" width = 50% >
 </a>
 
 ---
 
-# **📫| Contact me in**
+## Contact
 
 <div align="center">
   <a href="https://zil.ink/sobhan.srza" target="_blank">
