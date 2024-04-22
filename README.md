@@ -1,8 +1,8 @@
 <div align="center">
     <h1>Simple Personal Website</h1>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://badges.aleen42.com/src/javascript.svg">
+    <img src="https://badges.aleen42.com/src/html5.svg">
+    <img src="https://badges.aleen42.com/src/css3.svg">
     <div>
         <img src="https://img.shields.io/github/license/Sobhan-SRZA/Personal-Website?label=License">
         <img src="https://img.shields.io/github/last-commit/Sobhan-SRZA/Personal-Website?label=Last Commit">
