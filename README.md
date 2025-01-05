@@ -37,9 +37,9 @@ have a nice day ❤️‍🔥
 
 ---
 
-## Screen Shots
+## Preview
 <a href="https://sobhan.epizy.com">
-    <img align="center" src ="https://cdn.discordapp.com/attachments/940357295051784252/1076560875441365033/Sobhan-SRZA_-_Google_Chrome_29_11_1401_09_13_27_..png" width = 50% >
+https://github.com/user-attachments/assets/84e2cd4c-8eec-4057-b97a-993f39583f1f
 </a>
 
 ---
