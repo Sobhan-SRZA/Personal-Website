@@ -38,9 +38,8 @@ have a nice day ❤️‍🔥
 ---
 
 ## Preview
-<a href="https://sobhan.epizy.com">
+
 https://github.com/user-attachments/assets/84e2cd4c-8eec-4057-b97a-993f39583f1f
-</a>
 
 ---
 
