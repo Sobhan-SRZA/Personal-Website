@@ -7,7 +7,6 @@
         <img src="https://img.shields.io/github/license/Sobhan-SRZA/Personal-Website?label=License">
         <img src="https://img.shields.io/github/last-commit/Sobhan-SRZA/Personal-Website?label=Last Commit">
         <img src="https://img.shields.io/github/release-date/Sobhan-SRZA/Personal-Website?label=Last Release">
-        <img src="https://img.shields.io/github/downloads/Sobhan-SRZA/Personal-Website/total?label=Downloads">
     </div>
     <img src="https://img.shields.io/github/languages/code-size/Sobhan-SRZA/Personal-Website?label=Code Size">
     <img src="https://img.shields.io/github/directory-file-count/Sobhan-SRZA/Personal-Website?label=Files">
